@@ -3,7 +3,7 @@ Version 1 is fast but the result may not be accurate, Version2 is very slow, for
 
 I am interested to see if version1 and version2 gives the similar result and if so we could probably use version1.
 
-In the github, I provide result for score test for all genes and permutation test version1 for all genes and permutation test version2 for the first 50 genes(becasues it takes long time to run).
+In the github, I provide result for score test for all genes and permutation test version1 for first 1000 genes and permutation test version2 for the first 50 genes(becasues it takes long time to run).
 
 I perform a two sample t-test on SNP to compare if the p-values are similar 
 The result is that 
